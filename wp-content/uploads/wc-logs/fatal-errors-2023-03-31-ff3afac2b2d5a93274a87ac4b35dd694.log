@@ -1,0 +1,2 @@
+2023-03-31T12:31:22+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1150976 bytes) in /Users/samailpugaev/Documents/GitHub/wp-samail-cms/wp-includes/Requests/src/Requests.php on line 851
+
